@@ -15,6 +15,11 @@ LizaolaSPAUI is a desktop application built with Python and SQLite for managing 
 💾 Lightweight database (SQLite)
 🖥️ Simple and intuitive UI
 📸 Preview
+<img width="737" height="416" alt="image" src="https://github.com/user-attachments/assets/5c237827-62e9-472c-b5e4-db0ffe8c46b5" />
+<img width="1102" height="682" alt="image" src="https://github.com/user-attachments/assets/bebae03f-fcf7-428e-a38f-6a6c06ce7cbb" />
+<img width="1102" height="682" alt="image" src="https://github.com/user-attachments/assets/d2946fdf-67f1-4839-a7ff-6883bbae0265" />
+
+
 
 (You can add screenshots here later)
 
